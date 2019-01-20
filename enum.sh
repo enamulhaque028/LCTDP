@@ -61,7 +61,7 @@ echo
 ## Delete file.ext
 ## Default: Commit skipped|forgotten
 
-git commit -m "Uploaded LCTDP"
+git commit -m "Updated images as rar"
 
 
 ############
